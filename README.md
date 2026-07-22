@@ -64,7 +64,7 @@ I'm an aspiring Software Developer currently in my 3rd year of college. I have a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
