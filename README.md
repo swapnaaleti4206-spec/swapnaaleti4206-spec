@@ -1,4 +1,6 @@
 <div align="center">
+  
+![Swapna Aleti Banner](./banner.png)
 
 # 👋 Welcome, I'm Swapna Aleti
 ### 🎓 3rd Year Computer Science Student | 🧠 Machine Learning Enthusiast
@@ -63,5 +65,5 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&v=1" alt="GitHub Stats" />
 </p>
