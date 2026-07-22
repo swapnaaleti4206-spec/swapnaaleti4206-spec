@@ -1,11 +1,21 @@
 <div align="center">
-  
-![Swapna Aleti Banner](./banner.png)
 
 # 👋 Welcome, I'm Swapna Aleti
 ### 🎓 3rd Year Computer Science Student | 🧠 Machine Learning Enthusiast
 
 *An aspiring Software Engineer with a rigorous focus on Machine Learning and algorithm optimization. I am deeply committed to leveraging technology to build intelligent, scalable solutions.*
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-1E293B?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Swapnaaleti/)
+<!-- Update this link when you add your LinkedIn! -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
 </div>
 
@@ -53,19 +63,5 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true" alt="GitHub Stats" />
 </p>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-1E293B?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Swapnaaleti/)
-<!-- Add LinkedIn Link Below -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-*Thank you for visiting my professional portfolio. I look forward to connecting!*
-
-</div>
