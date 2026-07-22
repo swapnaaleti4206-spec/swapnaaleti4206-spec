@@ -2,14 +2,14 @@
     <style>
         .title {
             font-family: "Courier New", Courier, monospace;
-            font-size: 52px;
+            font-size: 46px;
             font-weight: bold;
             fill: #ffffff;
             text-anchor: middle;
         }
         .subtitle {
             font-family: "Courier New", Courier, monospace;
-            font-size: 26px;
+            font-size: 22px;
             fill: #00E5FF;
             text-anchor: middle;
         }
@@ -18,8 +18,8 @@
         }
     </style>
 
-    <!-- Background and Border -->
-    <rect x="4" y="4" width="792" height="242" rx="15" fill="#1A202C" stroke="#FFFF00" stroke-width="8"/>
+    <!-- Background -->
+    <rect x="0" y="0" width="800" height="250" rx="15" fill="#1A202C" />
     
     <!-- Subtle Background Pattern -->
     <g>
@@ -47,6 +47,6 @@
     </g>
 
     <!-- Text content -->
-    <text x="400" y="130" class="title">Hey! I am Swapna</text>
-    <text x="400" y="175" class="subtitle">Machine Learning Enthusiast</text>
+    <text x="400" y="130" class="title">Hey! I am Swapna Aleti</text>
+    <text x="400" y="175" class="subtitle">Software Engineer | ML Enthusiast | Fullstack</text>
 </svg>

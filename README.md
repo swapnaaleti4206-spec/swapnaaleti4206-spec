@@ -3,7 +3,7 @@
 ![Swapna Aleti Banner](./banner.svg)
 
 # 👋 Welcome, I'm Swapna Aleti
-### 🎓 3rd Year Computer Science Student | 🧠 Machine Learning Enthusiast
+### 🎓 3rd Year CSE & AIML Student | 🧠 Machine Learning Enthusiast
 
 *An aspiring Software Engineer with a rigorous focus on Machine Learning and algorithm optimization. I am deeply committed to leveraging technology to build intelligent, scalable solutions.*
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing my Bachelor's degree in Computer Science (3rd Year).
+- 🎓 Currently pursuing my Bachelor's degree in CSE & AIML (3rd Year).
 - 🧠 Deeply interested in **Data Structures, Algorithms**, and **Machine Learning** architectures.
 - 💡 Exploring the practical applications of AI tools, including **ChatGPT** and **Claude**, to enhance development workflows.
 - 🤝 Always open to collaborating on innovative tech projects and open-source initiatives.
@@ -56,7 +56,7 @@
 
 ## 🎯 Strategic Goals
 
-- 🏆 **Mastery:** Achieve advanced proficiency in Data Structures and Algorithms.
+- 🌱 **Learning:** Actively learning and practicing Data Structures & Algorithms.
 - 🧠 **Innovation:** Design and deploy practical Machine Learning models.
 - 💼 **Career:** Secure a challenging internship in Software Engineering or AI development.
 
