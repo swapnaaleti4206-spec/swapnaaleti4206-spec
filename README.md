@@ -15,9 +15,13 @@
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/-GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnaaleti4206-spec)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-1E293B?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Swapnaaleti/)
 <!-- Update this link when you add your LinkedIn! -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnaaleti4206@gmail.com)
+
+*Thank you for visiting my professional portfolio. I look forward to connecting!*
 
 </div>
 
@@ -49,6 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E293B?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-1E293B?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
