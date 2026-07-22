@@ -1,6 +1,6 @@
 <div align="center">
   
-![Swapna Aleti Banner](./banner.png)
+![Swapna Aleti Banner](./banner.svg)
 
 # 👋 Welcome, I'm Swapna Aleti
 ### 🎓 3rd Year Computer Science Student | 🧠 Machine Learning Enthusiast
