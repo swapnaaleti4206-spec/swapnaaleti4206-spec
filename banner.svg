@@ -1,25 +1,43 @@
 <svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Background Gradient -->
+        <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0f172a" />
+            <stop offset="100%" stop-color="#1e1b4b" />
+        </linearGradient>
+        
+        <!-- Text Gradient -->
+        <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#38bdf8" />
+            <stop offset="50%" stop-color="#818cf8" />
+            <stop offset="100%" stop-color="#c084fc" />
+        </linearGradient>
+    </defs>
+
     <style>
         .title {
-            font-family: "Courier New", Courier, monospace;
-            font-size: 46px;
-            font-weight: bold;
-            fill: #ffffff;
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            font-size: 38px;
+            font-weight: 800;
+            fill: url(#textGrad);
             text-anchor: middle;
+            letter-spacing: 1px;
         }
         .subtitle {
-            font-family: "Courier New", Courier, monospace;
-            font-size: 22px;
-            fill: #00E5FF;
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            font-weight: 500;
+            fill: #94a3b8;
             text-anchor: middle;
+            letter-spacing: 0.5px;
         }
         .pattern-circle {
-            fill: rgba(255, 255, 255, 0.03);
+            fill: rgba(255, 255, 255, 0.05);
         }
     </style>
 
     <!-- Background -->
-    <rect x="0" y="0" width="800" height="250" rx="15" fill="#1A202C" />
+    <rect x="0" y="0" width="800" height="250" rx="16" fill="url(#bgGrad)" />
     
     <!-- Subtle Background Pattern -->
     <g>
@@ -34,19 +52,23 @@
         <circle cx="400" cy="30" r="2" class="pattern-circle"/>
         <circle cx="420" cy="30" r="2" class="pattern-circle"/>
         <circle cx="400" cy="50" r="2" class="pattern-circle"/>
+        
+        <!-- Additional circles for visual interest -->
+        <circle cx="150" cy="180" r="1.5" class="pattern-circle"/>
+        <circle cx="650" cy="70" r="1.5" class="pattern-circle"/>
     </g>
 
     <!-- GitHub Logo Left -->
-    <g transform="translate(40, 93) scale(2)">
+    <g transform="translate(70, 93) scale(2)" opacity="0.8">
         <path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C7.16 0 0 7.16 0 16C0 23.08 4.58 29.06 10.94 31.18C11.74 31.32 12.04 30.84 12.04 30.42C12.04 30.04 12.02 28.78 12.02 27.44C7.58 28.4 6.64 25.3 6.64 25.3C5.92 23.46 4.88 22.96 4.88 22.96C3.44 21.98 5.02 22 5.02 22C6.62 22.12 7.46 23.64 7.46 23.64C8.88 26.06 11.16 25.36 12.08 24.96C12.22 23.9 12.66 23.18 13.14 22.78C9.58 22.38 5.86 21 5.86 15.22C5.86 13.56 6.44 12.2 7.4 11.12C7.24 10.72 6.72 9.18 7.54 7.1C7.54 7.1 8.8 6.7 12.04 8.9C13.24 8.56 14.52 8.4 15.8 8.4C17.08 8.4 18.36 8.56 19.56 8.9C22.8 6.7 24.06 7.1 24.06 7.1C24.88 9.18 24.36 10.72 24.2 11.12C25.16 12.2 25.76 13.56 25.76 15.22C25.76 21.02 22.02 22.38 18.46 22.76C19.06 23.28 19.58 24.28 19.58 25.8C19.58 27.98 19.56 29.74 19.56 30.42C19.56 30.86 19.86 31.34 20.66 31.18C27.02 29.06 31.6 23.06 31.6 16C31.6 7.16 24.44 0 16 0Z" fill="white"/>
     </g>
 
     <!-- GitHub Logo Right -->
-    <g transform="translate(696, 93) scale(2)">
+    <g transform="translate(666, 93) scale(2)" opacity="0.8">
         <path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C7.16 0 0 7.16 0 16C0 23.08 4.58 29.06 10.94 31.18C11.74 31.32 12.04 30.84 12.04 30.42C12.04 30.04 12.02 28.78 12.02 27.44C7.58 28.4 6.64 25.3 6.64 25.3C5.92 23.46 4.88 22.96 4.88 22.96C3.44 21.98 5.02 22 5.02 22C6.62 22.12 7.46 23.64 7.46 23.64C8.88 26.06 11.16 25.36 12.08 24.96C12.22 23.9 12.66 23.18 13.14 22.78C9.58 22.38 5.86 21 5.86 15.22C5.86 13.56 6.44 12.2 7.4 11.12C7.24 10.72 6.72 9.18 7.54 7.1C7.54 7.1 8.8 6.7 12.04 8.9C13.24 8.56 14.52 8.4 15.8 8.4C17.08 8.4 18.36 8.56 19.56 8.9C22.8 6.7 24.06 7.1 24.06 7.1C24.88 9.18 24.36 10.72 24.2 11.12C25.16 12.2 25.76 13.56 25.76 15.22C25.76 21.02 22.02 22.38 18.46 22.76C19.06 23.28 19.58 24.28 19.58 25.8C19.58 27.98 19.56 29.74 19.56 30.42C19.56 30.86 19.86 31.34 20.66 31.18C27.02 29.06 31.6 23.06 31.6 16C31.6 7.16 24.44 0 16 0Z" fill="white"/>
     </g>
 
     <!-- Text content -->
-    <text x="400" y="130" class="title">Hey! I am Swapna Aleti</text>
-    <text x="400" y="175" class="subtitle">Software Engineer | ML Enthusiast | Fullstack</text>
+    <text x="400" y="125" class="title">Hey! I am Swapna Aleti</text>
+    <text x="400" y="165" class="subtitle">Software Engineer | ML Enthusiast | Fullstack</text>
 </svg>
