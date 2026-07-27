@@ -71,4 +71,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnaaleti4206-spec&theme=tokyonight&hide_border=true&background=1E293B&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub Streak" />
 </p>
