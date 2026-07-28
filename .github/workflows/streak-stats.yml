@@ -1,0 +1,36 @@
+name: Update Streak Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak stats
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+          hide_border: true
+          background: 1E293B
+          ring: 38bdf8
+          fire: 38bdf8
+          currStreakNum: ffffff
+          sideNums: ffffff
+          currStreakLabel: 94a3b8
+          sideLabels: 94a3b8
+          dates: 94a3b8
+          output-path: streak-stats.svg
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak-stats.svg
+          git commit -m "docs: auto-update daily streak stats" || exit 0
+          git push
