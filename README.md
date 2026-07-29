@@ -48,6 +48,7 @@
 ### 🤖 AI & Data
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E293B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Excel](https://img.shields.io/badge/Data%20Analysis-1E293B?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1E293B?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🔧 Tools & Workflows
 ![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=white)
