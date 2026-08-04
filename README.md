@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true&show=prs_merged,prs&v=3" alt="GitHub Stats" />
-  <img src="./streak-stats.svg" alt="GitHub Streak" />
+  <img src="./streak-stats.svg?v=4" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swapnaaleti4206-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&v=3" alt="Top Languages" />
