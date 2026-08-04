@@ -71,6 +71,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
   <img src="./streak-stats.svg" alt="GitHub Streak" />
 </p>
