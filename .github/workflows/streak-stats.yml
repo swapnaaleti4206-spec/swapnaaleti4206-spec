@@ -1,10 +1,7 @@
 name: Update Streak Stats
 on:
   schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
+    - cron: '0 19 * * *' # Midnight IST
   workflow_dispatch:
 
 jobs:
@@ -19,6 +16,8 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          mode: daily
+          timezone: Asia/Kolkata
           theme: tokyonight
           hide_border: true
           background: 1E293B
