@@ -71,12 +71,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true&show=prs_merged,prs&v=8" alt="GitHub Stats" />
-  <img src="./streak-stats.svg?v=8" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=swapnaaleti4206-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true&show=prs_merged,prs&v=10" alt="GitHub Stats" />
+  <img src="./streak-stats.svg?v=10" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swapnaaleti4206-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&v=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swapnaaleti4206-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=1E293B&text_color=ffffff&title_color=ffffff&v=10" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnaaleti4206-spec&theme=tokyo-night&bg_color=1E293B&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true&v=8" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnaaleti4206-spec&theme=tokyo-night&bg_color=1E293B&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true&v=10" alt="Contribution Activity Graph" width="100%" />
 </p>
